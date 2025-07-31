@@ -3,14 +3,14 @@ import React from 'react';
 const Projects = () => {
   const projects = [
     {
-      title: 'Todo App',
-      description: 'A simple todo app built with React and localStorage.',
-      link: 'https://github.com/zahin/todo-app'
+      title: 'WEB',
+      description: 'A simple WEB PAGE  built with React and localStorage.',
+      link: 'https://zahin2o.github.io/assinment-2/'
     },
     {
-      title: 'Blog CMS',
-      description: 'Full-stack MERN blog app with login and dashboard.',
-      link: 'https://github.com/zahin/blog-cms'
+      title: 'QUIZ APP',
+      description: 'Full-stack MERN QUIZ app with .',
+      link: ' https://zahin2o.github.io/Quiz-App/'
     }
   ];
 
