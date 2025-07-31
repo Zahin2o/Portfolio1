@@ -7,7 +7,7 @@ const MyNavbar = () => {
       <Container>
      <Navbar.Brand href="#home">
         <img
-          src="/public/ZF_logo_STD_Blue_3CC.svg.png"  // এখানে তোমার logo এর path বসাও
+          src="./public/ZF_logo_STD_Blue_3CC.svg.png"  // এখানে তোমার logo এর path বসাও
           width="40"
           height="40"
           className="d-inline-block align-top"

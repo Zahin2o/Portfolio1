@@ -8,7 +8,7 @@ const CricketBalls = () => {
         {[...Array(5)].map((_, i) => (
           <img
             key={i}
-            src="/public/8947599.png"
+            src="./public/8947599.png"
             alt="cricket ball"
             className="cricket-ball"
             style={{ animationDelay: `${i * 0.6}s` }}

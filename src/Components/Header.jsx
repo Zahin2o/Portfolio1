@@ -7,7 +7,7 @@ const Header = () => {
     <header className="custom-header position-relative text-white text-center py-5">
       <CricketBalls />
       <img
-        src="/DSC01177.jpg"
+        src="./DSC01177.jpg"
         alt="Zahin's photo"
         className="profile-img mb-4"
       />
